@@ -1,0 +1,32 @@
+_repo: Filiations_74580
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bainville, Jacques
+    birthdate: 1879
+    deathdate: 1936
+    gutenberg_agent_id: '52467'
+    url: http://www.gutenberg.org/2009/agents/52467
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jacques_Bainville
+    - https://fr.wikipedia.org/wiki/Jacques_Bainville
+description: ''
+gutenberg_issued: '2024-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74580'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=q7YPAAAAQAAJ
+pgterms:marc905: 20240927232347bainville
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: laurent Vogel (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aParis :$bLa cité des livres, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Filiations
+url: http://www.gutenberg.org/ebooks/74580
